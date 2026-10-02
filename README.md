@@ -11,6 +11,12 @@ A simple Python command-line program that simulates rolling two six-sided dice.
 - Functions
 - Loops
 - Conditional statements
-## How to Run
+## How to Run 
 ```bash
+git clone https://github.com/your-username/dice-roller.git
+cd dice-roller
 python dice_roller.py
+
+
+
+
